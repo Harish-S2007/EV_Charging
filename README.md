@@ -14,7 +14,7 @@ A runnable academic prototype that demonstrates the main algorithmic components 
 ## Windows / VS Code setup
 
 1. Install Python 3.10+ and VS Code.
-2. Extract this ZIP to a folder such as `C:\Users\YourName\adaptive_ev_complete`.
+2. Extract this ZIP to a folder such as `C:\Users\Harish\adaptive_ev_complete`.
 3. In VS Code, choose **File → Open Folder** and select `adaptive_ev_complete`.
 4. Open **Terminal → New Terminal**. Confirm you are in the folder containing `app.py` and `requirements.txt` by running `dir`.
 5. Create a virtual environment:
